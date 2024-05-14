@@ -710,7 +710,7 @@
     "Cevapi",
     "Pav Bhaji",
     "Bagel",
-    "Fried Chicken",
+    "Nashville Fried Chicken",
     "Pierogi",
     "Tacos",
     "Turducken",
@@ -739,7 +739,7 @@
     "Tarte Tatin",
     "Fried Green Tomatoes",
     "Sashimi",
-    "Fried Chicken",
+    "Korean Fried Chicken",
     "Pad See Ew",
     "Cuban Sandwich",
     "Fish and Chips",
@@ -877,6 +877,8 @@
     "Tom Yum Soup",
     "Churrasco",
     "Feijoada",
-    "Egg Fried Rice"
+    "Egg Fried Rice",
+    "Hakka Rice",
+    "Fried Chicken"
   ]
 }
