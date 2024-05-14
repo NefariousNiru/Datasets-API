@@ -7,7 +7,7 @@ I have included JSON and SQL dumps for the files. A few might have both while ot
 # What's Included?
 - Job Titles: Explore a dataset containing a comprehensive list of job titles across different industries. Contains 55k+ entries.
 
-- Food Items: Explore a food list focussed mainly on Indian food, but also contains famous International Food. 
+- Food Items: Explore a food list focussed mainly on Indian food, but also contains famous International Food. 800+ entries.
 
 - Indian Colleges and Universities: A list of Indian Colleges and Universities.
 
