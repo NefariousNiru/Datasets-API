@@ -1,7 +1,7 @@
 
 CREATE TABLE food_item (
     id SERIAL PRIMARY KEY,
-    item VARCHAR NOT NULL
+    item VARCHAR NOT NULL UNIQUE
 );
 
 INSERT INTO food_item (item) VALUES ('Machher Jhol');
@@ -714,7 +714,7 @@ INSERT INTO food_item (item) VALUES ('Toad in the Hole');
 INSERT INTO food_item (item) VALUES ('Cevapi');
 INSERT INTO food_item (item) VALUES ('Pav Bhaji');
 INSERT INTO food_item (item) VALUES ('Bagel');
-INSERT INTO food_item (item) VALUES ('Fried Chicken');
+INSERT INTO food_item (item) VALUES ('Nashville Fried Chicken');
 INSERT INTO food_item (item) VALUES ('Pierogi');
 INSERT INTO food_item (item) VALUES ('Tacos');
 INSERT INTO food_item (item) VALUES ('Turducken');
@@ -743,7 +743,7 @@ INSERT INTO food_item (item) VALUES ('Hummus');
 INSERT INTO food_item (item) VALUES ('Tarte Tatin');
 INSERT INTO food_item (item) VALUES ('Fried Green Tomatoes');
 INSERT INTO food_item (item) VALUES ('Sashimi');
-INSERT INTO food_item (item) VALUES ('Fried Chicken');
+INSERT INTO food_item (item) VALUES ('Korean Fried Chicken');
 INSERT INTO food_item (item) VALUES ('Pad See Ew');
 INSERT INTO food_item (item) VALUES ('Cuban Sandwich');
 INSERT INTO food_item (item) VALUES ('Fish and Chips');
@@ -882,3 +882,5 @@ INSERT INTO food_item (item) VALUES ('Tom Yum Soup');
 INSERT INTO food_item (item) VALUES ('Churrasco');
 INSERT INTO food_item (item) VALUES ('Feijoada');
 INSERT INTO food_item (item) VALUES ('Egg Fried Rice');
+INSERT INTO food_item (item) VALUES ('Hakka Rice');
+INSERT INTO food_item (item) VALUES ('Fried Chicken');
