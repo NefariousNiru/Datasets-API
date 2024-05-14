@@ -6,16 +6,16 @@ Data Formats: Includes scripts to export collected data in both or either JSON a
 # What's Included?
 - Job Titles: Explore a dataset containing a comprehensive list of job titles across different industries. Contains 55k+ entries. Source link - https://www.onetcenter.org/database.html#all-files. Combination of Alternate and Occupational titles, removing duplicates. 
 
-- Food Items: Explore a food list focussed mainly on Indian food, but also contains famous International Food. 800+ entries. Source - Scraped from Wikipedia
+- Food Items: Explore a food list focussed mainly on Indian 🇮🇳  food, but also contains famous International Food. 800+ entries. Source - Scraped from Wikipedia
 
-- Indian Colleges and Universities: A list of Indian Colleges and Universities. Source link - https://data.gov.in/catalog/institutions-aishe-survey
+- Indian Colleges and Universities 🇮🇳 🇮🇳: A list of Indian Colleges and Universities. Source link - https://data.gov.in/catalog/institutions-aishe-survey
 
 This repository provides scripts for collecting various data related to India in JSON and SQL formats.
 
 # Target Audience?
 
-Developers & Data Scientists working with Indian data.
-Researchers & Analysts interested in Indian jobs, food, or education.
+- Developers & Data Scientists working with Indian data.
+- Researchers & Analysts interested in Indian jobs, food, or education.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
